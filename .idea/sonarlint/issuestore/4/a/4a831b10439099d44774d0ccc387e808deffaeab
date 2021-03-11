@@ -1,0 +1,584 @@
+
+m	java:S116«"RRename this field "FDfirst" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ÑÖÙıÿÿÿÿ
+d
+java:S1192¢"GDefine a constant instead of duplicating this literal "Period" 6 times.(¤¿´S8ı©é­.
+F
+java:S1604­"(Make this anonymous inner class a lambda(Î ×8¸õ­.
+s	java:S116¶"XRename this field "LoanLastOrNot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Î¥Üøÿÿÿÿ
+s	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æØÊóøÿÿÿÿ8¸õ­.
+K
+java:S3740ƒ"/Provide the parametrized type for this generic.(ïòïåúÿÿÿÿ
+K
+java:S1125Ÿ"(Remove the literal "true" boolean value.(ñÖÁÇÿÿÿÿÿ8¸õ­.
+F
+java:S1604™"(Make this anonymous inner class a lambda(õ‘Ï«8¸õ­.
+H
+java:S5411¥"*Use the primitive boolean expression here.(¨‘ÊŞ8¸õ­.
+z	java:S116º"XRename this field "MortgageIDNum" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ñû¾şÿÿÿÿ8ı©é­.
+b
+java:S1192œ"KDefine a constant instead of duplicating this literal "Solve for?" 4 times.(ş½äù
+K
+java:S1604Ñ"(Make this anonymous inner class a lambda(ÀÈäİıÿÿÿÿ8¸õ­.
+^
+java:S1854æ";Remove this useless assignment to local variable "capital".(Ñ”³¢üÿÿÿÿ8¸õ­.
+n	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š8¸õ­.
+s	java:S117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Äí³ûÿÿÿÿ8ç¯½ô­.
+F
+java:S1125¥"(Remove the literal "true" boolean value.(¨‘ÊŞ8¸õ­.
+H
+java:S5411‰"*Use the primitive boolean expression here.(©­„8¸õ­.
+s	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÓË›şÿÿÿÿ8¸õ­.
+E
+java:S3740k"/Provide the parametrized type for this generic.(øîê
+F
+java:S1604¡"(Make this anonymous inner class a lambda(‡Æ°8¸õ­.
+b
+java:S1192""LDefine a constant instead of duplicating this literal "Export Data" 4 times.(ƒí•¡
+m
+java:S1192Ğ"ODefine a constant instead of duplicating this literal "Mortgage Value" 4 times.( î®œ8¸õ­.
+i	java:S116u"TRename this field "LFileMenu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Ã’’
+n	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ‹ë8ı©é­.
+U
+java:S2589¥"7Remove this expression which always evaluates to "true"(¨‘ÊŞ8¸õ­.
+F
+java:S1604¢"(Make this anonymous inner class a lambda(›ÂáÁ8¸õ­.
+s	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şô§ıÿÿÿÿ8¸õ­.
+Z
+java:S2589‹"7Remove this expression which always evaluates to "true"(¦ì°æûÿÿÿÿ8¸õ­.
+L
+java:S1125")Remove the literal "false" boolean value.(È´ä´øÿÿÿÿ8ç¯½ô­.
+M
+java:S5411‹"*Use the primitive boolean expression here.(¦ì°æûÿÿÿÿ8¸õ­.
+Š
+java:S1845…"tRename field "mortgageanswer" to prevent any misunderstanding/clash with field "mortgageAnswer" defined on line 132.(¹Öw
+G
+java:S1125")Remove the literal "false" boolean value.(ŞıÖÈ8ç¯½ô­.
+H
+java:S1481"*Remove this unused "years" local variable.(§¿ê8ç¯½ô­.
+K
+java:S1604°"(Make this anonymous inner class a lambda(ÈŒˆ—úÿÿÿÿ8Û—Èé­.
+K
+java:S1604‡"(Make this anonymous inner class a lambda(ôÒØ¥úÿÿÿÿ8¸õ­.
+f
+java:S2095˜"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(í¢™¡8ı©é­.
+f
+java:S2095 "HUse try-with-resources or close this "FileWriter" in a "finally" clause.(í¢™¡8¸õ­.
+M
+java:S5411œ"*Use the primitive boolean expression here.(À«ãüÿÿÿÿ8¸õ­.
+K
+java:S1604«"(Make this anonymous inner class a lambda(´™µùşÿÿÿÿ8¸õ­.
+m	java:S116:"XRename this field "InterestStage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÌÀÑ
+F
+java:S1125¢"(Remove the literal "true" boolean value.(›í’ù8Ç»®é­.
+K
+java:S1604Ö"(Make this anonymous inner class a lambda(ù«ñ°úÿÿÿÿ8ı©é­.
+f
+java:S2095ª"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(í¢™¡8ı©é­.
+H
+java:S5411…"*Use the primitive boolean expression here.(—­°ê8¸õ­.
+E
+java:S3740S"/Provide the parametrized type for this generic.(’§Ş
+M
+java:S5411­"*Use the primitive boolean expression here.(ªŞº¤şÿÿÿÿ8¸õ­.
+E
+java:S37408"/Provide the parametrized type for this generic.(Û”ìİ
+H
+java:S5411ü"*Use the primitive boolean expression here.(¬şÎµ8¸õ­.
+k	java:S116["QRename this field "SImage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÒßºøÿÿÿÿ
+n	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¾8Û—Èé­.
+e
+java:S1192÷"HDefine a constant instead of duplicating this literal "Rate: " 13 times.(›šµh8ı©é­.
+E
+java:S1604ñ"(Make this anonymous inner class a lambda(ô»ıQ8¸õ­.
+~
+java:S1845<"cRename field "answer" to prevent any misunderstanding/clash with field "Answer" defined on line 59.(Š˜ËŠúÿÿÿÿ
+H
+java:S5411ı"*Use the primitive boolean expression here.(â†éı8¸õ­.
+f
+java:S2095©"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(í¢™¡8¸õ­.
+n	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¸—•8¸õ­.
+K
+java:S1604¤"(Make this anonymous inner class a lambda(ŸÉ‹ôşÿÿÿÿ8¸õ­.
+p	java:S116^"VRename this field "SDataExport" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÅìùÿÿÿÿ
+M
+java:S5411ô"*Use the primitive boolean expression here.(ÍàâØüÿÿÿÿ8ç¯½ô­.
+Î
+java:S1192ç"ªDefine a constant instead of duplicating this literal "Note:- Click on the keyboard button below the calculate option in order to launch the on-screen keyboard." 3 times.(è¥š™ÿÿÿÿÿ8ı©é­.
+H
+java:S5411"*Use the primitive boolean expression here.(ŞıÖÈ8ç¯½ô­.
+n	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É“°…8ı©é­.
+m
+java:S1192Ä"JDefine a constant instead of duplicating this literal "FDdetails" 4 times.(™Áìİûÿÿÿÿ8ı©é­.
+K
+java:S1604ñ"(Make this anonymous inner class a lambda(èÑÇ¡ûÿÿÿÿ8¸õ­.
+G
+java:S1125")Remove the literal "false" boolean value.(° º•8¸õ­.
+H
+java:S5411¢"*Use the primitive boolean expression here.(›í’ù8ı©é­.
+f	java:S116;"QRename this field "Answer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¾Ù
+n
+java:S1192ş"QDefine a constant instead of duplicating this literal "Mortgage Value: " 4 times.(Ğ„ã8¸õ­.
+K
+java:S1604‰"(Make this anonymous inner class a lambda(Ç†„—ùÿÿÿÿ8¸õ­.
+H
+java:S5411€"*Use the primitive boolean expression here.(ø™éœ8¸õ­.
+s	java:S116°"WRename this field "Savingsfirst" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı€¤:8Ç»®é­.
+f
+java:S2095ß"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(í¢™¡8¸õ­.
+K
+java:S1125‹"(Remove the literal "true" boolean value.(¦ì°æûÿÿÿÿ8¸õ­.
+L
+java:S1940ç")Use the opposite operator ("!=") instead.(¸Ä­¬şÿÿÿÿ8¸õ­.
+m	java:S1169"XRename this field "HomepageStage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Œ´·
+L
+java:S1940¥")Use the opposite operator ("!=") instead.( Ø¸—ıÿÿÿÿ8¸õ­.
+G
+java:S1125")Remove the literal "false" boolean value.(° º•8¸õ­.
+p
+java:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(â‘ºâ8Ç»®é­.
+K
+java:S1604Ì"(Make this anonymous inner class a lambda(ÆÎ½ıÿÿÿÿ8ı©é­.
+F
+java:S1604û	"(Make this anonymous inner class a lambda(—‹ä8¸õ­.
+i
+java:S1192Ÿ"MDefine a constant instead of duplicating this literal "Future Value" 6 times.(ĞÆÈŠÿÿÿÿÿ
+f
+java:S2095ì"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(í¢™¡8¸õ­.
+n	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¸—•8¸õ­.
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(îœE8¦ø½é­.
+F
+java:S1125ü"(Remove the literal "true" boolean value.(¬şÎµ8¸õ­.
+L
+java:S1125")Remove the literal "false" boolean value.(È´ä´øÿÿÿÿ8¸õ­.
+G
+java:S1125")Remove the literal "false" boolean value.(ŞıÖÈ8¸õ­.
+M
+java:S5411¡"*Use the primitive boolean expression here.(’®¦œúÿÿÿÿ8¸õ­.
+n	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×û¤8Û—Èé­.
+K
+java:S1604·"(Make this anonymous inner class a lambda(Š””úÿÿÿÿ8¸õ­.
+E
+java:S3740k"/Provide the parametrized type for this generic.(øîê
+M
+java:S5411’"*Use the primitive boolean expression here.(àåóÓúÿÿÿÿ8¸õ­.
+F
+java:S1125…"(Remove the literal "true" boolean value.(—­°ê8¸õ­.
+K
+java:S1604Â"(Make this anonymous inner class a lambda(¿ƒ˜Âüÿÿÿÿ8¸õ­.
+s	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æØÊóøÿÿÿÿ8¸õ­.
+M
+java:S5411˜"*Use the primitive boolean expression here.(öõîµûÿÿÿÿ8¸õ­.
+F
+java:S1604ª"(Make this anonymous inner class a lambda(Èù²Ó8¸õ­.
+u
+java:S3776®
+"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(ˆÚì¼ùÿÿÿÿ8¸õ­.
+F
+java:S1604ï"(Make this anonymous inner class a lambda(÷‘¾—8¸õ­.
+F
+java:S1604°"(Make this anonymous inner class a lambda(÷û»æ8¸õ­.
+M
+java:S5411Ÿ"*Use the primitive boolean expression here.(ñÖÁÇÿÿÿÿÿ8¸õ­.
+f	java:S116s"QRename this field "LImage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ñ…È
+F
+java:S1148Š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ı©é­.
+K
+java:S1125"(Remove the literal "true" boolean value.(ïÍú‡ùÿÿÿÿ8¸õ­.
+M
+java:S3740Ì"/Provide the parametrized type for this generic.(Æ›¡8¸õ­.
+n	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É“°…8¸õ­.
+e	java:S116#"PRename this field "IHelp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¥ø¶
+[	java:S106Â"9Replace this use of System.out or System.err by a logger.(˜ÖÖ¬ûÿÿÿÿ8¸õ­.
+q
+java:S1192 "NDefine a constant instead of duplicating this literal "Present Value" 6 times.(‡ä‹Éüÿÿÿÿ8ı©é­.
+F
+java:S1604É	"(Make this anonymous inner class a lambda(Ÿ÷ª8¸õ­.
+F
+java:S1148í"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¸õ­.
+m
+java:S1192ö"JDefine a constant instead of duplicating this literal "Capital: " 7 times.(›Ç³ºúÿÿÿÿ8ı©é­.
+r
+java:S1192¡"ODefine a constant instead of duplicating this literal "Interest Rate" 12 times.(ş¾Ñ¿øÿÿÿÿ8ı©é­.
+p
+java:S1192İ"SDefine a constant instead of duplicating this literal "Monthly Addition: " 5 times.(©²W8¹ÙÆõ­.
+K
+java:S1604É"(Make this anonymous inner class a lambda(ê¼·ğùÿÿÿÿ8ı©é­.
+f
+java:S1192ß"IDefine a constant instead of duplicating this literal " rupees" 45 times.(Å‹½m8ı©é­.
+K
+java:S1604î"(Make this anonymous inner class a lambda(îøÚÿûÿÿÿÿ8¸õ­.
+[	java:S106“"9Replace this use of System.out or System.err by a logger.(ö´¡úÿÿÿÿ8¸õ­.
+c	java:S112Õ"FDefine and throw a dedicated exception instead of using a generic one.(â‘ºâ8ı©é­.
+F
+java:S1604Ä"(Make this anonymous inner class a lambda(øŞóƒ8ı©é­.
+F
+java:S1148˜"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ı©é­.
+G
+java:S1125")Remove the literal "false" boolean value.(ŞıÖÈ8¸õ­.
+f
+java:S2095¨	"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(í¢™¡8¸õ­.
+K
+java:S1604´"(Make this anonymous inner class a lambda(ôÊàûüÿÿÿÿ8¸õ­.
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(îœE8ı©é­.
+f
+java:S1192Æ"HDefine a constant instead of duplicating this literal "Capital" 4 times.(ïûœ£8ı©é­.
+n	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¾8¸õ­.
+s	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÓË›şÿÿÿÿ8¸õ­.
+E
+java:S1125ó"(Remove the literal "true" boolean value.(ğÜ8¸õ­.
+K
+java:S1604¿"(Make this anonymous inner class a lambda(Šøôıøÿÿÿÿ8¸õ­.
+G
+java:S5411‡"*Use the primitive boolean expression here.(®×ó.8¸õ­.
+r
+java:S1192­"TDefine a constant instead of duplicating this literal "Installment count: " 8 times.(¤’¶Ğ8¸õ­.
+p	java:S116´"TRename this field "LoanIDNum" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø³8ı©é­.
+F
+java:S1604È"(Make this anonymous inner class a lambda(åÿÆ¶8¸õ­.
+K
+java:S1604ù"(Make this anonymous inner class a lambda(ûÇ¢ÿşÿÿÿÿ8¸õ­.
+~	java:S116¼"\Rename this field "MortgageLastOrNot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¡õÂúÿÿÿÿ8ı©é­.
+f
+java:S2095ü"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(í¢™¡8¸õ­.
+u
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(İ¹ã¦ûÿÿÿÿ8¸õ­.
+‰
+java:S1192¿"kDefine a constant instead of duplicating this literal "Calculation is not completed yet to export" 4 times.(İúô›8ı©é­.
+F
+java:S1604›"(Make this anonymous inner class a lambda(Èÿ§é8¸õ­.
+H
+java:S5411£"*Use the primitive boolean expression here.(§£¦8¸õ­.
+F
+java:S1604"(Make this anonymous inner class a lambda(´“ î8¸õ­.
+F
+java:S1125Ğ"(Remove the literal "true" boolean value.(å¦‹ú8¸õ­.
+F
+java:S1604‡"(Make this anonymous inner class a lambda(õåÄÇ8ı©é­.
+s	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şô§ıÿÿÿÿ8¸õ­.
+y
+java:S1192ı
+"VDefine a constant instead of duplicating this literal "Installments required" 6 times.(§å¼ÿÿÿÿÿ8ç¯½ô­.
+q	java:S116¬"VRename this field "FDLastOrNot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âµı‹ıÿÿÿÿ
+F
+java:S1604€"(Make this anonymous inner class a lambda(–Ş³ü8¸õ­.
+n	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÃÍ8ı©é­.
+L
+java:S1940Ğ")Use the opposite operator ("!=") instead.(ÿ÷Úøÿÿÿÿ8Ç»®é­.
+n
+java:S1192Ç"PDefine a constant instead of duplicating this literal "MortgageDetails" 4 times.(„ˆÎ‹8ı©é­.
+E
+java:S37408"/Provide the parametrized type for this generic.(Û”ìİ
+«
+java:S1192Ş"‡Define a constant instead of duplicating this literal "/footage/wireless-keyboard-k360-emea-glossy-black-glamour-image-lg.png" 4 times.(–°èîúÿÿÿÿ8ı©é­.
+F
+java:S1604€"(Make this anonymous inner class a lambda(ñåß8¸õ­.
+c
+java:S1192$"MDefine a constant instead of duplicating this literal "Instructions" 4 times.(‚¤ø´
+n	java:S117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šœİˆ8Õ¬ˆê­.
+K
+java:S1125œ"(Remove the literal "true" boolean value.(À«ãüÿÿÿÿ8¸õ­.
+K
+java:S1604É"(Make this anonymous inner class a lambda(“‚ŞÓùÿÿÿÿ8¸õ­.
+u	java:S116»"XRename this field "Mortgagefirst" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¦¶–8ı©é­.
+s	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØŞºàøÿÿÿÿ8ç¯½ô­.
+E
+java:S1481Œ"'Remove this unused "MA" local variable.(ß¾8”³ºô­.
+K
+java:S1604"(Make this anonymous inner class a lambda(ğÓê¶üÿÿÿÿ8Û—Èé­.
+t	java:S116¯"WRename this field "SavingsIDNum" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠéìÕ8ı©é­.
+[	java:S106Ã"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8Ç»®é­.
+M
+java:S5411ƒ"*Use the primitive boolean expression here.(ê²ÿÿÿÿÿ8¸õ­.
+E
+java:S1125–"(Remove the literal "true" boolean value.(Ñû†8¸õ­.
+?
+java:S1116Ø"Remove this empty statement.(‘¦±½ÿÿÿÿÿ8Ç»®é­.
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é’ïÖ8Û—Èé­.
+K
+java:S1604’"(Make this anonymous inner class a lambda(Ú•Ç¥ıÿÿÿÿ8¸õ­.
+K
+java:S1125­"(Remove the literal "true" boolean value.(ªŞº¤şÿÿÿÿ8¸õ­.
+
+java:S1192·"{Define a constant instead of duplicating this literal "Please select the item for which you need the solution to!" 4 times.(ı´öĞùÿÿÿÿ8ı©é­.
+m	java:S116$"XRename this field "IInstructions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¤ø´
+e	java:S116\"PRename this field "SmBar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ì¿Ë
+D
+java:S2111è"!Use "BigDecimal.valueOf" instead.(úû£Çıÿÿÿÿ8Ç»®é­.
+m
+java:S1192Å"ODefine a constant instead of duplicating this literal " installments" 10 times.(¢÷ÿí8¸õ­.
+Í
+java:S1192¾"©Define a constant instead of duplicating this literal "The data entered into the textfields is either invalid or the neccessary textfields have been left empty" 4 times.(³ÈÅøÿÿÿÿ8ı©é­.
+f
+java:S2095²"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(í¢™¡8¸õ­.
+s	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÖùìüÿÿÿÿ8òÀ¼é­.
+Š
+java:S1130Õ"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(â‘ºâ8Ç»®é­.
+x	java:S116±"[Rename this field "SavingsLastOrNot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôô²Ó8†­¥ã­.
+^
+java:S1854‹";Remove this useless assignment to local variable "capital".(Ñ”³¢üÿÿÿÿ8¸õ­.
+j
+java:S1192ÿ
+"LDefine a constant instead of duplicating this literal "Loan Amount" 6 times.(½€š³8¸õ­.
+F
+java:S1148¦"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ı©é­.
+i	java:S116!"TRename this field "IFileMenu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ªÉ
+[	java:S106Ã	"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8¸õ­.
+O
+java:S1481æ",Remove this unused "capital" local variable.(Ñ”³¢üÿÿÿÿ8¸õ­.
+K
+java:S1604ã"(Make this anonymous inner class a lambda(€£†Çûÿÿÿÿ8¸õ­.
+G
+java:S1940º")Use the opposite operator ("!=") instead.(éÑâ8Û—Èé­.
+k	java:S116v"VRename this field "LDataExport" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘û¿ö
+L
+java:S1125ô")Remove the literal "false" boolean value.(ÍàâØüÿÿÿÿ8ç¯½ô­.
+i
+java:S1192ş"FDefine a constant instead of duplicating this literal "Years" 6 times.(¬ÜÀùÿÿÿÿ8ı©é­.
+f
+java:S2095†"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(í¢™¡8ı©é­.
+n	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¾8¸õ­.
+r	java:S116U"XRename this field "Savingsanswer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÚÖ¬üÿÿÿÿ
+Œ
+java:S1845U"qRename field "Savingsanswer" to prevent any misunderstanding/clash with field "SavingsAnswer" defined on line 84.(ÑÚÖ¬üÿÿÿÿ
+q
+java:S1192«"NDefine a constant instead of duplicating this literal "Loan amount: " 4 times.(´¯’Ôúÿÿÿÿ8¸õ­.
+m
+java:S1192ù"ODefine a constant instead of duplicating this literal "Future Value: " 9 times.(·šµÔ8ı©é­.
+M
+java:S3740"/Provide the parametrized type for this generic.(Æ›¡8ı©é­.
+K
+java:S3740ƒ"/Provide the parametrized type for this generic.(ïòïåúÿÿÿÿ
+M
+java:S3740ä"/Provide the parametrized type for this generic.(Æ›¡8ı©é­.
+|
+java:S1192Ñ"YDefine a constant instead of duplicating this literal "-fx-background-radius: 5" 9 times.(²‘¨öûÿÿÿÿ8ı©é­.
+f
+java:S1192ú"HDefine a constant instead of duplicating this literal " years" 15 times.(Ô¬Ğ¼8ı©é­.
+m
+java:S1192ñ"JDefine a constant instead of duplicating this literal "Calculate" 4 times.(‡¸áòıÿÿÿÿ8ı©é­.
+u
+java:S1192¿"RDefine a constant instead of duplicating this literal "Monthly payment: " 6 times.(£©ìÌÿÿÿÿÿ8¸õ­.
+H
+java:S5411ø"*Use the primitive boolean expression here.(Œóà°8¸õ­.
+F
+java:S1604¶"(Make this anonymous inner class a lambda(µ¯ßù8¸õ­.
+U
+java:S2589ü"7Remove this expression which always evaluates to "true"(¬şÎµ8¸õ­.
+
+java:S1845m"lRename field "loananswer" to prevent any misunderstanding/clash with field "loanAnswer" defined on line 108.(¾é“[
+L
+java:S1125")Remove the literal "false" boolean value.(È´ä´øÿÿÿÿ8¸õ­.
+G
+java:S1125")Remove the literal "false" boolean value.(ŞıÖÈ8¸õ­.
+O
+java:S1481‹",Remove this unused "capital" local variable.(Ñ”³¢üÿÿÿÿ8¸õ­.
+F
+java:S1125€"(Remove the literal "true" boolean value.(ø™éœ8¸õ­.
+L
+java:S1125")Remove the literal "false" boolean value.(È´ä´øÿÿÿÿ8¸õ­.
+o
+java:S1192ü
+"QDefine a constant instead of duplicating this literal "Monthly Payment" 10 times.(Ó›‹á8¸õ­.
+f
+java:S2095Í"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(í¢™¡8¸õ­.
+
+java:S1192ƒ"\Define a constant instead of duplicating this literal "Data exported successfully" 17 times.(ó÷¨¢úÿÿÿÿ8ı©é­.
+f
+java:S2095Ø"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(í¢™¡8¸õ­.
+n	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ½ö¯8ı©é­.
+s	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æØÊóøÿÿÿÿ8¸õ­.
+K
+java:S1604ä"(Make this anonymous inner class a lambda(«ïßüÿÿÿÿ8¸õ­.
+T
+java:S1854Œ"6Remove this useless assignment to local variable "MA".(ß¾8”³ºô­.
+p
+java:S1192¥"RDefine a constant instead of duplicating this literal "Installment Count" 4 times.(£ñƒÓ8¸õ­.
+s	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Äí³ûÿÿÿÿ8¸õ­.
+F
+java:S1604Í"(Make this anonymous inner class a lambda(ƒÓ…Š8ı©é­.
+F
+java:S1125”"(Remove the literal "true" boolean value.(ÙøÌ†8¸õ­.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØŞºàøÿÿÿÿ8¸õ­.
+E
+java:S1125‡"(Remove the literal "true" boolean value.(®×ó.8¸õ­.
+f
+java:S2095€	"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(í¢™¡8¸õ­.
+D
+java:S1604ß"(Make this anonymous inner class a lambda(’¢18ı©é­.
+n	java:S117…
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É“°…8¸õ­.
+n	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°®ÿ 8ı©é­.
+n	java:S117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é’ïÖ8úú¶ó­.
+o
+java:S1192Æ"LDefine a constant instead of duplicating this literal "LoanDetails" 4 times.(À“Ü—ıÿÿÿÿ8ı©é­.
+H
+java:S5411"*Use the primitive boolean expression here.(° º•8ç¯½ô­.
+F
+java:S1125ø"(Remove the literal "true" boolean value.(Œóà°8¸õ­.
+H
+java:S5411ö"*Use the primitive boolean expression here.(‹³¿¦8¸õ­.
+o
+java:S1192é"QDefine a constant instead of duplicating this literal "Monthly Addition" 5 times.(„¸ºö8ı©é­.
+K
+java:S1604Í"(Make this anonymous inner class a lambda(ŞÁ—¯ùÿÿÿÿ8¸õ­.
+f
+java:S2095»"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(í¢™¡8¸õ­.
+L
+java:S1125ô")Remove the literal "false" boolean value.(ÍàâØüÿÿÿÿ8¸õ­.
+K
+java:S1604’"(Make this anonymous inner class a lambda(¾ÄÄÜûÿÿÿÿ8¸õ­.
+F
+java:S1125‰"(Remove the literal "true" boolean value.(©­„8¸õ­.
+K
+java:S1125¡"(Remove the literal "true" boolean value.(’®¦œúÿÿÿÿ8¸õ­.
+F
+java:S1604œ"(Make this anonymous inner class a lambda(¤şà»8ı©é­.
+p
+java:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(â³¼º8¸õ­.
+K
+java:S1604ç	"(Make this anonymous inner class a lambda(§âèğùÿÿÿÿ8¸õ­.
+K
+java:S1125’"(Remove the literal "true" boolean value.(àåóÓúÿÿÿÿ8¸õ­.
+M
+java:S5411"*Use the primitive boolean expression here.(ïÍú‡ùÿÿÿÿ8¸õ­.
+n	java:S116]"TRename this field "SFileMenu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÂŒ„şÿÿÿÿ
+m	java:S116T"XRename this field "SavingsAnswer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÿª°
+G
+java:S1125")Remove the literal "false" boolean value.(° º•8¸õ­.
+}
+java:S1192Ó"_Define a constant instead of duplicating this literal "/footage/search-background.png" 4 times.(É“°…8ı©é­.
+j	java:S116_"PRename this field "SHelp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅĞ¤ùÿÿÿÿ
+E
+java:S1481"'Remove this unused "FV" local variable.(é’ïÖ8”³ºô­.
+P
+java:S1874Â"-Remove this use of "getDB"; it is deprecated.(„‡›õüÿÿÿÿ8Ç»®é­.
+K
+java:S1604Û"(Make this anonymous inner class a lambda(è„Ûşüÿÿÿÿ8¸õ­.
+F
+java:S1148š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¸õ­.
+F
+java:S1604—"(Make this anonymous inner class a lambda(–ù¯¿8Û—Èé­.
+E
+java:S1604Ò"(Make this anonymous inner class a lambda(•ÒB8¸õ­.
+F
+java:S1125ı"(Remove the literal "true" boolean value.(â†éı8¸õ­.
+K
+java:S1125˜"(Remove the literal "true" boolean value.(öõîµûÿÿÿÿ8¸õ­.
+F
+java:S1604¤"(Make this anonymous inner class a lambda(ÜĞ–¾8Û—Èé­.
+h	java:S116ª"RRename this field "FDIDNum" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õƒ˜·
+T
+java:S1854"6Remove this useless assignment to local variable "FV".(é’ïÖ8”³ºô­.
+[	java:S106ø"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8¸õ­.
+G
+java:S5411ó"*Use the primitive boolean expression here.(ğÜ8¸õ­.
+G
+java:S1125")Remove the literal "false" boolean value.(ŞıÖÈ8¸õ­.
+F
+java:S1125ö"(Remove the literal "true" boolean value.(‹³¿¦8¸õ­.
+m	java:S116x"XRename this field "LInstructions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô®ö÷
+n	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é’ïÖ8¡­ô­.
+s	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÖùìüÿÿÿÿ8¸õ­.
+|
+java:S1192‹"YDefine a constant instead of duplicating this literal "Interest rate required: " 4 times.(Õó£ğøÿÿÿÿ8ı©é­.
+K
+java:S1604é"(Make this anonymous inner class a lambda(‹…Éûÿÿÿÿ8ı©é­.
+K
+java:S1125ú"(Remove the literal "true" boolean value.(ÜÌìúúÿÿÿÿ8¸õ­.
+n	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¸—•8¸õ­.
+M
+java:S3740û
+"/Provide the parametrized type for this generic.(Æ›¡8¸õ­.
+q	java:S116µ"TRename this field "Loanfirst" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¦åæ8ı©é­.
+n	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¾8¸õ­.
+m
+java:S1192ß"PDefine a constant instead of duplicating this literal "Future Value = " 4 times.(Å‹½m8Ú³ªô­.
+Z
+java:S2589˜"7Remove this expression which always evaluates to "true"(öõîµûÿÿÿÿ8¸õ­.
+F
+java:S1604ú"(Make this anonymous inner class a lambda(ÈÆ8¸õ­.
+W
+java:S1854"9Remove this useless assignment to local variable "years".(§¿ê8ç¯½ô­.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(îœE8Ç»®é­.
+j
+java:S1192î"GDefine a constant instead of duplicating this literal "Export" 4 times.(¦ôùÿÿÿÿ8ı©é­.
+G
+java:S1940õ")Use the opposite operator ("!=") instead.(•âİ8¸õ­.
+k	java:S116""VRename this field "IDataExport" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒí•¡
+K
+java:S1125ƒ"(Remove the literal "true" boolean value.(ê²ÿÿÿÿÿ8¸õ­.
+K
+java:S1604¶"(Make this anonymous inner class a lambda(éÀ„¤øÿÿÿÿ8Û—Èé­.
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š8¸õ­.
+j	java:S116w"PRename this field "LHelp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óƒï¾ÿÿÿÿÿ
+E
+java:S3740S"/Provide the parametrized type for this generic.(’§Ş
+s	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Äí³ûÿÿÿÿ8ç¯½ô­.
+h	java:S112®
+"FDefine and throw a dedicated exception instead of using a generic one.(ˆÚì¼ùÿÿÿÿ8¸õ­.
+k
+java:S1192õ"UDefine a constant instead of duplicating this literal "Calculation Details" 17 times.(š¹Œ2
+m
+java:S1192Å"ODefine a constant instead of duplicating this literal "SavingsDetails" 4 times.(áËï¶8ı©é­.
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ‹ë8ı©é­.
+F
+java:S1604ª"(Make this anonymous inner class a lambda(Ä€¾ü8ı©é­.
+G
+java:S5411–"*Use the primitive boolean expression here.(Ñû†8¸õ­.
+K
+java:S1604ñ	"(Make this anonymous inner class a lambda(–‰‘ÿÿÿÿÿ8¸õ­.
+f
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(í¢™¡8¸õ­.
+K
+java:S1604¿"(Make this anonymous inner class a lambda(‹‰ú»ıÿÿÿÿ8¸õ­.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØŞºàøÿÿÿÿ8ç¯½ô­.
+E
+java:S1604€"(Make this anonymous inner class a lambda(¡—â.8ı©é­.
+K
+java:S1604Ó	"(Make this anonymous inner class a lambda(üÆ Çÿÿÿÿÿ8¸õ­.
+[	java:S106Ë"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8¸õ­.
+M
+java:S5411"*Use the primitive boolean expression here.(È´ä´øÿÿÿÿ8ç¯½ô­.
+K
+java:S1604İ	"(Make this anonymous inner class a lambda(ÉĞáùÿÿÿÿ8¸õ­.
+K
+java:S1604"(Make this anonymous inner class a lambda(ú“É´øÿÿÿÿ8ı©é­.
+F
+java:S1604û"(Make this anonymous inner class a lambda(ıºß8ı©é­.
+m	java:S116`"XRename this field "SInstructions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óØÍĞ
+n	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÚ¤§8¸õ­.
+n	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É“°…8¸õ­.
+f
+java:S2095ô"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(í¢™¡8ı©é­.
+H
+java:S5411Ğ"*Use the primitive boolean expression here.(å¦‹ú8¸õ­.
+f
+java:S2095”	"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(í¢™¡8¸õ­.
+l
+java:S1192ø"IDefine a constant instead of duplicating this literal "Period: " 7 times.(ÿ»·Ëşÿÿÿÿ8ı©é­.
+p
+java:S1192Í"MDefine a constant instead of duplicating this literal "Book Antiqua" 8 times.(ÙĞ‰üÿÿÿÿ8ı©é­.
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é’ïÖ8ç¯½ô­.
+\
+java:S1192,"FDefine a constant instead of duplicating this literal "Rate:" 4 times.(¬îè£
+n	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÚ¤§8¸õ­.
+
+java:S1130®
+"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ˆÚì¼ùÿÿÿÿ8¸õ­.
+j	java:S116t"PRename this field "LmBar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÚçŞüÿÿÿÿ
+L
+java:S1125ô")Remove the literal "false" boolean value.(ÍàâØüÿÿÿÿ8¸õ­.
+L
+java:S1125ô")Remove the literal "false" boolean value.(ÍàâØüÿÿÿÿ8¸õ­.
+G
+java:S1125")Remove the literal "false" boolean value.(° º•8ç¯½ô­.
+F
+java:S1125£"(Remove the literal "true" boolean value.(§£¦8¸õ­.
+M
+java:S5411ú"*Use the primitive boolean expression here.(ÜÌìúúÿÿÿÿ8¸õ­.
+H
+java:S5411”"*Use the primitive boolean expression here.(ÙøÌ†8¸õ­.
+F
+java:S1604Ú"(Make this anonymous inner class a lambda(¤ì‹¥8¸õ­.

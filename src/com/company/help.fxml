@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="258.0" prefWidth="414.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.company.Help">
+   <children>
+      <ImageView fitHeight="295.0" fitWidth="490.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../Footage/search-background.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="200.0" layoutY="56.0" prefHeight="18.0" prefWidth="87.0" text="FD Calculator" textFill="WHITE">
+         <font>
+            <Font name="Book Antiqua Bold Italic" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="49.0" layoutY="86.0" prefHeight="44.0" prefWidth="395.0" text="Instructions:- Enter the capital, rate and term of the deposit in order to find the interest to be received at the end of the term. Data of the last performed calculation can be exported to a text file by going into FIle menu&gt;Export option." textAlignment="CENTER" textFill="WHITE" wrapText="true">
+         <font>
+            <Font name="Book Antiqua Italic" size="10.0" />
+         </font>
+      </Label>
+      <Label layoutX="46.0" layoutY="134.0" prefHeight="28.0" prefWidth="404.0" text="Note:- Click on the keyboard button below the calculate option in order to launch the on-screen keyboard. " textAlignment="CENTER" textFill="WHITE" wrapText="true">
+         <font>
+            <Font name="Book Antiqua Italic" size="10.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
